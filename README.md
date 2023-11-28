@@ -1,2 +1,4 @@
 # CSC2510-003-GitTeachingRepo
-This repository is meant to be a practice of the basics of git. It showcases committing, branching, merging, and pushing within the git environment. 
+Welcome to the repository for the interview! If you have made it this far, good job! 
+
+You have already been given the instructions, so complete the tasks in a timely manner and make sure I can see all of the changes you make. :)
